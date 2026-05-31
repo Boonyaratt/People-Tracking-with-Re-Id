@@ -1,0 +1,15 @@
+# Notebook runtime
+notebook>=7.0
+ipython>=8.0
+
+# People counting prototype
+ultralytics>=8.4.57,<9
+gdown>=5.0
+opencv-python>=4.6
+numpy>=1.23
+pandas>=2.0
+matplotlib>=3.3
+tqdm>=4.60
+
+# Required by Ultralytics tracking; installing it up front avoids a runtime restart.
+lap>=0.5.12

@@ -179,13 +179,8 @@ redefined when the camera position, angle, or resolution changes.
 ```text
 .
 |-- people_counting_3zone.ipynb
-|-- people_counting_3zone_passing_fixed.ipynb
-|-- people_counting_room_sideflow_colab.ipynb
 |-- requirements.txt
-|-- yolo11s.pt
-|-- debug_frames/
-|-- docs/
-`-- outputs/
+
 ```
 
 ## Future Improvements
